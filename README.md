@@ -7,6 +7,7 @@
 [演示地址](http://www.limisi.top/timer)<br><br>
 
 ## 目录结构
+```
   timer
   ├─ .gitignore
   ├─ README.md
@@ -41,7 +42,7 @@
   │     ├─ getSum.js (获取一段时间内各类型事件的时间总长，用于统计)
   │     └─ utils.js (一些工具函数)
   └─ vue.config.js
-
+```
 ## 数据结构
 ```javascript
 将一天的数据，以日期为键值储存在localstorage中
