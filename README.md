@@ -5,8 +5,6 @@
 
 ## 项目演示
 [演示地址](http://www.limisi.top/timer)<br><br>
-iframe ↓<br>
-<iframe src="http://www.limisi.top/timer" frameborder="0" width='400px' height='600px'></iframe>
 
 ## 目录结构
   timer
@@ -63,12 +61,3 @@ iframe ↓<br>
     timePoint:["8:40","8:40"...]
 }
 ```
-
-
-
-
-
-
-
-
-
